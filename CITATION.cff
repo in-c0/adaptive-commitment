@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Adaptive Commitment — outward commitment timing under streaming evidence"
+message: >-
+  Charter only. No literature audit, no benchmark, no preregistration, no result.
+  This repository holds no claim and must not be cited as evidence for one.
+type: software
+authors:
+  - alias: in-c0
+repository-code: "https://github.com/in-c0/adaptive-commitment"
+license: Apache-2.0
